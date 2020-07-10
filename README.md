@@ -89,6 +89,8 @@ class _MyAppState extends State<MyApp> {
 
 ```
 
+![Imagem de exemplo](https://media2.giphy.com/media/gKkd8Lb0EpcXteg85C/giphy.gif)
+
 ## Correções
 Crie uma issue https://github.com/Git-RenatoAlcantara/paypal_mobile_payment
 
