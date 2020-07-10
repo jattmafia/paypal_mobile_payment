@@ -61,7 +61,7 @@ class _MyAppState extends State<MyApp> {
                   onPressed: () async {
                     var result = await PaypalMobilePayment.startCheckout(
                         clientId:
-                            "AcZJTsqYlovBu9xMRsK6cXPLMHep7z2lVuFAXIn517h5NxzElQ5DdrgBbebhlWj_6ZjmIJJ2HUB0N9t9",
+                            "SUA-KEY-AQUI",
                         items: products);
                     setState(() {
                       _paymentResult = result;
