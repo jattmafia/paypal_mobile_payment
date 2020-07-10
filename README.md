@@ -28,5 +28,7 @@ adicione o seguinte importação ao código dart
 ```dart
 import 'package:paypal_mobile_payment/paypal_mobile_payment.dart';
 ```
-    
+
+## Correções
+Crie uma issue https://github.com/Git-RenatoAlcantara/paypal_mobile_payment
 
