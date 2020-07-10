@@ -1,7 +1,7 @@
 name: paypal_mobile_payment
 description: Package para pagamento via PayPal
 version: 0.0.1
-homepage:
+homepage: https://github.com/Git-RenatoAlcantara/paypal_mobile_payment
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
