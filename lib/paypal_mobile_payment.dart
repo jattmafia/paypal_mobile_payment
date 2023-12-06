@@ -11,7 +11,7 @@ class PaypalMobilePayment {
     return version;
   }
 
-  static Future<String> startCheckout({String clientId, Map<String, String> items}) async {
+  static Future<String> startCheckout({required String clientId, required Map<String, String> items}) async {
     String result = await _channel.invokeMethod(
       "startCheckout",
       {

@@ -56,7 +56,7 @@ class _MyAppState extends State<MyApp> {
         body: Center(
           child: Column(
             children: <Widget>[
-              FlatButton(
+              MaterialButton(
                   color: Colors.blueAccent,
                   onPressed: () async {
                     var result = await PaypalMobilePayment.startCheckout(
